@@ -137,11 +137,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .vintage__log {
-  margin-top: -264px;
-  margin-left: 295px;
+  margin-top: -282px;
+  margin-left: -50px;
 }
 
-.right__logo {
+.vintage__logo {
   text-align: center;
   margin-bottom: 30px;
 }
@@ -152,6 +152,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   text-align: center;
   margin-bottom: 0px;
+}
+
+.right__logo {
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 .right__subtitle {
@@ -172,4 +177,61 @@ h1, h2, h3, h4, h5, h6 {
 .right__img {
   width: 469px;
   margin-top: 9px;
+}
+
+.boriosa {
+  margin-top: 60px;
+}
+
+.boriosa__content {
+  display: flex;
+}
+
+.boriosa__left {
+  width: 400px;
+}
+
+.left__logo {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.left__title {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+.left__subtitle {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  width: 400px;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 400;
+  color: #848789;
+}
+
+.boriosa__image {
+  position: relative;
+}
+
+.boriosa__img {
+  position: absolute;
+  width: 706px;
+  top: 90px;
+  left: 133px;
+}
+
+.boriosa__logo {
+  position: relative;
+}
+
+.boriosa__log {
+  position: absolute;
+  top: 195px;
+  left: 398px;
 }
